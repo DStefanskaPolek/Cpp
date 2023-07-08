@@ -1,1 +1,1 @@
-
+The program takes a value from the user, which determines how many first numbers of the Fibonnaci sequence should be printed on the screen. The last two values ​​are used to calculate the golden ratio. The larger the numbers, the more accurate the golden ratio.
